@@ -91,6 +91,8 @@
 .basic-line {
     display: flex;
     gap: 4px;
+    height: 20px;
+    width: 70%;
 }
 
 .product-details .basics span {
@@ -98,7 +100,7 @@
     font-weight: 300;
     line-height: 18.08px;
     text-align: left;
-    width: 40%;
+    width: 100%;
 }
 
 .detailed-heading h2 {
